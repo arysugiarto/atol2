@@ -59,24 +59,39 @@
 						<input type="text" class="form-control"  placeholder="No Telepon">
 					</div><br>
 					<div class="form-group col-md-12">
-						<label for="inputState">Kota/Kabupaten</label>
-						<select  class="form-control">
-						<option selected>Pilih...</option>
-						<option>...</option>
+					<label for="inputAddress2">Kota/Kabupaten</label>
+						<select class="form-control" id="form-field-select-1">
+						<option value=""></option>
+						<option value="AL">Alabama</option>
+							<option value="AK">Alaska</option>
+							<option value="AZ">Arizona</option>
+							<option value="AR">Arkansas</option>
+							<option value="CA">California</option>
+							<option value="CO">Colorado</option>														
 						</select>
 					</div>
 					<div class="form-group col-md-6">
-						<label for="inputState">Kecamatan</label>
-						<select  class="form-control">
-						<option selected>Pilih...</option>
-						<option>...</option>
+					<label for="inputAddress2">Kecamatan</label>
+						<select class="form-control" id="form-field-select-1">
+						<option value=""></option>
+						<option value="AL">Alabama</option>
+							<option value="AK">Alaska</option>
+							<option value="AZ">Arizona</option>
+							<option value="AR">Arkansas</option>
+							<option value="CA">California</option>
+							<option value="CO">Colorado</option>														
 						</select>
 					</div>
 					<div class="form-group col-md-6">
-						<label for="inputState">Kelurahan</label>
-						<select  class="form-control">
-						<option selected>Pilih...</option>
-						<option>...</option>
+					<label for="inputAddress2">Kelurahan</label>
+						<select class="form-control" id="form-field-select-1">
+						<option value=""></option>
+						<option value="AL">Alabama</option>
+							<option value="AK">Alaska</option>
+							<option value="AZ">Arizona</option>
+							<option value="AR">Arkansas</option>
+							<option value="CA">California</option>
+							<option value="CO">Colorado</option>														
 						</select>
 					</div>
 					<div class="form-group col-lg-12">

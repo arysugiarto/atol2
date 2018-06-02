@@ -72,6 +72,7 @@
             </div>
           </div>
 		<body>
+      
 		<?php $this->load->view('wisata/footer')?>
 </body> 
 </html>
