@@ -35,21 +35,21 @@
 					
 				</div>
 				<div class="container">
-				<h3>Daftar pemilik Wisata</h3>
+				<h3>Update akun pemilik Wisata</h3>
 				<form>
 				
 				<div class="form-group col-md-12">
 				<div class="form-group">
 					<label for="exampleInputEmail1">Nama</label>
-					<input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+					<input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nama">
 				</div>
 				<div class="form-group">
 					<label for="exampleInputPassword1">No Id</label>
-					<input type="text" class="form-control" id="exampleInputPassword1" placeholder="Password">
+					<input type="text" class="form-control" id="exampleInputPassword1" placeholder="No Id">
 				</div>
 				<div class="form-group">
 					<label for="exampleInputPassword1">Email</label>
-					<input type="email" class="form-control" id="exampleInputPassword1" placeholder="Password">
+					<input type="email" class="form-control" id="exampleInputPassword1" placeholder="Email">
 				</div>
 				<div class="form-group">
 					<label for="exampleInputPassword1">Password</label>
@@ -57,20 +57,21 @@
 				</div>
 				<div class="form-group">
 					<label for="exampleInputPassword1">Ulangi Password</label>
-					<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+					<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Ulangi Password">
 				</div>
 				<div class="form-group">
 					<label for="exampleInputPassword1">Alamat</label>
-					<input type="text" class="form-control" id="exampleInputPassword1" placeholder="Password">
+					<input type="text" class="form-control" id="exampleInputPassword1" placeholder="Alamat">
 				</div>
 				<div class="form-group">
 					<label for="exampleInputPassword1">Tempat Tanggal Lahir</label>
-					<input type="date" class="form-control" id="exampleInputPassword1" placeholder="Password">
+					<input type="date" class="form-control" id="exampleInputPassword1" placeholder="">
 				</div>
 				<div class="form-group">
                     <div class="custom-file">
                          <label class="custom-file-label" for="inputGroupFile04">Choose file</label>
                          <input type="file" class="custom-file-input" id="inputGroupFile04">
+                       
                     </div>
                     </div>
                     <div class="form-check">

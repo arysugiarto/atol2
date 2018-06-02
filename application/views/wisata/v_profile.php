@@ -78,7 +78,7 @@
             <hr style="margin:5px 0 5px 0;">
     
               
-          <div class="col-sm-5 col-xs-6 tital " >First Name:</div><div class="col-sm-7 col-xs-6 ">Prasad</div>
+          <div class="col-sm-5 col-xs-6 tital " >Nama:</div><div class="col-sm-7 col-xs-6 ">Prasad</div>
                <div class="clearfix"></div>
           <div class="bot-border"></div>
 

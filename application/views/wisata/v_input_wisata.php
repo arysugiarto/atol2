@@ -79,7 +79,8 @@
 							<option value="AZ">Arizona</option>
 							<option value="AR">Arkansas</option>
 							<option value="CA">California</option>
-							<option value="CO">Colorado</option>														
+							<option value="CO">Colorado</option>
+																			
 						</select>
 					</div>
 					<div class="form-group col-md-6">
