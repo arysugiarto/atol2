@@ -21,21 +21,25 @@
 							</li>
 							<li class="active">Produk</li>
 						</ul><!-- /.breadcrumb -->
-
-						
 					</div>
-                
                     <div class="page-header">
 							<h1>
 								Tables
 								<small>
 									<i class="ace-icon fa fa-angle-double-right"></i>
 									Data wisata
-                        
                                 </small>
                             </h1>  
 						</div><!-- /.page-header -->
                             <br>
+							<div class="container">
+							<div class="row col-md-6">
+							<a href="#" class="btn btn-primary">
+												<i class=""></i>
+											Tambah
+							</a>
+							</div>
+							<div class="row col-md-5">
                             <div class="nav-search col-md-2" id="nav-search" >
 							<form class="form-search">
 								<span class="input-icon">
@@ -43,8 +47,9 @@
 									<i class="ace-icon fa fa-search nav-search-icon"></i>
 								</span>
 							</form>
+							</div>
                             </div><!-- /.nav-search -->
-                            <br>
+							</div>
                             <br>
 						<div class="row col-xs-12">
 							<div class="col-xs-12">
@@ -1025,12 +1030,17 @@
 									</div><!-- /.span -->
 								</div><!-- /.row -->
 
-								<div class="hr hr-18 dotted hr-double"></div>
-							
-
-							
-													
-
+							<div class="container">
+							<div class="row col-md-6">
+							<a href="#" class="btn btn-primary">
+								<i class=""></i>
+								Eksport excel
+							</a>
+							</div>
+							<br>	
+							<br>	
+							<br>	
+							<br>		
 		<?php $this->load->view('wisata/footer')?>
 	</body>
 </html>
