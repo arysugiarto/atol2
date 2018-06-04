@@ -10,7 +10,7 @@
 				try{ace.settings.loadState('main-container')}catch(e){}
 			</script>
 
-		<?php $this->load->view('wisata/sidebar')?>
+		<?php $this->load->view('admin/sidebar')?>
 		<div class="main-content">
 				<div class="main-content-inner">
 					<div class="breadcrumbs ace-save-state" id="breadcrumbs">
@@ -19,7 +19,7 @@
 								<i class="ace-icon fa fa-home home-icon"></i>
 								<a href="#">Home</a>
 							</li>
-							<li class="active">Produk</li>
+							<li class="active">Admin Dinas</li>
 						</ul><!-- /.breadcrumb -->
 
 						<div class="nav-search" id="nav-search">
@@ -31,7 +31,6 @@
 							</form>
 						</div><!-- /.nav-search -->
 					</div>
-				
 		<?php $this->load->view('wisata/footer')?>
 	</body>
 </html>
